@@ -11,17 +11,17 @@
 		"buy":[
 		{
 			"title":"购物特色",
-			"img":"../src/assets/img/hot/hot_buy/hot_buy1.jpg",
+			"img":"src/assets/img/hot/hot_buy/hot_buy1.jpg",
 			"span":"济州岛海鲜干货",
 			"text":"济州岛海产丰富，海鲜是每家每户餐桌上必不可少的食物。"
 		},
 		{
-			"img":"../src/assets/img/hot/hot_buy/hot_buy2.jpg",
+			"img":"src/assets/img/hot/hot_buy/hot_buy2.jpg",
 			"span":"济州岛食物特产",
 			"text":"济州岛有很多特产食品，其中最著名的是汉拿山柑橘，个头大，糖分高"
 		},
 		{
-			"img":"../src/assets/img/hot/hot_buy/hot_buy3.jpg",
+			"img":"src/assets/img/hot/hot_buy/hot_buy3.jpg",
 			"span":"济州岛传统服饰",
 			"text":"济州岛四周被大海缠绕，是韩国平均气温最高，降水最多的地方。"
 		}
